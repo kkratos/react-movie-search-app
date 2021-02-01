@@ -74,3 +74,6 @@
   font-weight: bold;
   color: blue;
 }
+.input{
+  outline: none;
+}
